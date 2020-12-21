@@ -1,0 +1,9 @@
+name: crears
+version: 0.1.0
+
+authors:
+  - Robert Dober <robert.dober@gmail.com>
+
+crystal: 0.35.1
+
+license: Apache-2.0
